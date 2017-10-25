@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Análise de Perfil de Motoristas</string>
+
+    <string name="startTrip">Iniciar viagem</string>
+    <string name="finishTrip">Terminar viagem</string>
+
+    <string name="existingTripStatus">Viagem #%1$s ativa</string>
+    <string name="nonexistentTripStatus">Nenhuma viagem ativa</string>
+
+    <string name="tripStarted">Viagem #%1$s iniciada.</string>
+    <string name="tripFinishedOk">Viagem #%1$s finalizada com sucesso.</string>
+    <string name="tripFinishedErrorTitle">Erro na viagem</string>
+    <string name="tripFinishedError">Viagem #%1$s finalizada com erro: %2$s\nFunção: %3$s\nDataCollectionEvent: %4$s</string>
+
+    <string name="unavailableGPSWarning">GPS desabilitado ou indisponível</string>
+    <string name="unavailableSensorDialogTitle">Sensor indisponível</string>
+    <string name="unavailableSensorDialogMessage">A viagem não pode ser iniciada porque o sensor \"%1$s\" não está disponível. Por favor, habilite o sensor e escolha a opção \"%2$s\" abaixo.</string>
+    <string name="unavailableSensorDialogPositiveButton">Tentar Novamente</string>
+</resources>
